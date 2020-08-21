@@ -1,5 +1,7 @@
 Webbox website template 
 
+This template was build on NewBiz
+
 Thanks to: 
 
 Theme Name: NewBiz
